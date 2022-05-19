@@ -1,0 +1,7 @@
+.svg-shape-1 {
+    -fx-fill: linear-gradient(to bottom left, #FFD770 8.41%, #FF9E87 49.44%);
+}
+
+.svg-shape-2 {
+    -fx-fill: linear-gradient(to right, #FFD770 0%, #FF9E87 58.47%);
+}
